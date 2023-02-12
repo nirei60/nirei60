@@ -1,5 +1,9 @@
-### Hi there 👋
-
+:dango: About Me :dango: <hr>
+<p>:fish_cake: NEET </p>
+<p>:fish_cake: Mech. Engineer graduate </p>
+<p>:fish_cake: Trying to be personable </p>
+<p>:fish_cake: Trying to shift careers </p>
+<p>:fish_cake: Looking forward meeting amazing people and work on tech </p>
 <!--
 **nirei60/nirei60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
